@@ -1,0 +1,10 @@
+logs/
+*.phar
+*.log
+
+# Entorno
+.env
+
+# Sistema / OS
+.DS_Store
+Thumbs.db
